@@ -12,8 +12,5 @@ pip-delete-this-directory.txt
 *.mo
 *.pot
 
-# Django stuff:
-settings.py
-
 # Sphinx documentation
 docs/_build/
