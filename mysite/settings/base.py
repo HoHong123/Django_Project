@@ -17,10 +17,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 
 # Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
+
+# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-wi&g$9*hk2w*(c2i$na05q1^za-$x1=%ej+%u0pk4z2ye4&-0y'
+SECRET_KEY = 'django-insecure-pt=!#o-qupmtlat=lph)egx!wm56#x_ouxw=xt&r=&j7#g#931'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -34,7 +35,7 @@ INSTALLED_APPS = [
     'common.apps.CommonConfig',  
     
     'pybo.apps.PyboConfig',
-    
+  
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
