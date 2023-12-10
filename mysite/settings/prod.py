@@ -1,6 +1,6 @@
 from .base import *
 
-ALLOWED_HOSTS = ['3.37.164.41']
+ALLOWED_HOSTS = ['3.37.164.41','localhost']
 
 # python manage.py runserver --settings=mysite.settings.prod
 # or
