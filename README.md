@@ -1,6 +1,6 @@
 # Django
 ## Project Description
-> Django social community site project  
+Django social community site project  
 
 <br>
 
